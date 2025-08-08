@@ -1,4 +1,4 @@
-# 🎁 Proyecto Amigo Secreto
+#  Proyecto Amigo Secreto
 
 Una aplicación web sencilla que permite ingresar nombres de amigos, mostrarlos en una lista, y luego realizar un **sorteo aleatorio** para elegir quién será el "Amigo Secreto".
 
